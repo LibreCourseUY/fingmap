@@ -1,0 +1,738 @@
+[
+  {
+    "id": "aulario-0-A01",
+    "room": "A01",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "0",
+    "mapFile": "Aulario-Piso(0).svg"
+  },
+  {
+    "id": "aulario-0-B01",
+    "room": "B01",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "0",
+    "mapFile": "Aulario-Piso(0).svg"
+  },
+  {
+    "id": "aulario-0-Zona de Estudio",
+    "room": "Zona de Estudio",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "0",
+    "mapFile": "Aulario-Piso(0).svg"
+  },
+  {
+    "id": "aulario-0-Admin",
+    "room": "Admin",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "0",
+    "mapFile": "Aulario-Piso(0).svg"
+  },
+  {
+    "id": "aulario-0-Baño - U",
+    "room": "Baño - U",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "0",
+    "mapFile": "Aulario-Piso(0).svg"
+  },
+  {
+    "id": "aulario-0-Anfiteatro",
+    "room": "Anfiteatro",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "0",
+    "mapFile": "Aulario-Piso(0).svg"
+  },
+  {
+    "id": "aulario-1-A12",
+    "room": "A12",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "1",
+    "mapFile": "Aulario-Piso(1).svg"
+  },
+  {
+    "id": "aulario-1-Baño - M",
+    "room": "Baño - M",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "1",
+    "mapFile": "Aulario-Piso(1).svg"
+  },
+  {
+    "id": "aulario-1-B12",
+    "room": "B12",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "1",
+    "mapFile": "Aulario-Piso(1).svg"
+  },
+  {
+    "id": "aulario-1-B11",
+    "room": "B11",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "1",
+    "mapFile": "Aulario-Piso(1).svg"
+  },
+  {
+    "id": "aulario-1-A11",
+    "room": "A11",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "1",
+    "mapFile": "Aulario-Piso(1).svg"
+  },
+  {
+    "id": "aulario-1-C12",
+    "room": "C12",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "1",
+    "mapFile": "Aulario-Piso(1).svg"
+  },
+  {
+    "id": "aulario-1-C11",
+    "room": "C11",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "1",
+    "mapFile": "Aulario-Piso(1).svg"
+  },
+  {
+    "id": "aulario-1-Baño - F",
+    "room": "Baño - F",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "1",
+    "mapFile": "Aulario-Piso(1).svg"
+  },
+  {
+    "id": "aulario-2-Baño - M",
+    "room": "Baño - M",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "2",
+    "mapFile": "Aulario-Piso(2).svg"
+  },
+  {
+    "id": "aulario-2-B21",
+    "room": "B21",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "2",
+    "mapFile": "Aulario-Piso(2).svg"
+  },
+  {
+    "id": "aulario-2-A21",
+    "room": "A21",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "2",
+    "mapFile": "Aulario-Piso(2).svg"
+  },
+  {
+    "id": "aulario-2-B22",
+    "room": "B22",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "2",
+    "mapFile": "Aulario-Piso(2).svg"
+  },
+  {
+    "id": "aulario-2-A22",
+    "room": "A22",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "2",
+    "mapFile": "Aulario-Piso(2).svg"
+  },
+  {
+    "id": "aulario-2-C22",
+    "room": "C22",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "2",
+    "mapFile": "Aulario-Piso(2).svg"
+  },
+  {
+    "id": "aulario-2-B23",
+    "room": "B23",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "2",
+    "mapFile": "Aulario-Piso(2).svg"
+  },
+  {
+    "id": "aulario-2-C21",
+    "room": "C21",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "2",
+    "mapFile": "Aulario-Piso(2).svg"
+  },
+  {
+    "id": "aulario-2-Baño - F",
+    "room": "Baño - F",
+    "building": "aulario",
+    "buildingName": "Aulario",
+    "floor": "2",
+    "mapFile": "Aulario-Piso(2).svg"
+  },
+  {
+    "id": "edificio-principal--1-Sala de Publicaciones",
+    "room": "Sala de Publicaciones",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "-1",
+    "mapFile": "Edificio-Principal-Piso(-1).svg"
+  },
+  {
+    "id": "edificio-principal--1-Comedor",
+    "room": "Comedor",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "-1",
+    "mapFile": "Edificio-Principal-Piso(-1).svg"
+  },
+  {
+    "id": "edificio-principal--2-Deposito",
+    "room": "Deposito",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "-2",
+    "mapFile": "Edificio-Principal-Piso(-2).svg"
+  },
+  {
+    "id": "edificio-principal-0-Recepcion",
+    "room": "Recepcion",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "0",
+    "mapFile": "Edificio-Principal-Piso(0).svg"
+  },
+  {
+    "id": "edificio-principal-0-Cantina",
+    "room": "Cantina",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "0",
+    "mapFile": "Edificio-Principal-Piso(0).svg"
+  },
+  {
+    "id": "edificio-principal-0-Kiosco del CEI",
+    "room": "Kiosco del CEI",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "0",
+    "mapFile": "Edificio-Principal-Piso(0).svg"
+  },
+  {
+    "id": "edificio-principal-0-Bicicletero",
+    "room": "Bicicletero",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "0",
+    "mapFile": "Edificio-Principal-Piso(0).svg"
+  },
+  {
+    "id": "edificio-principal-0-Comedor",
+    "room": "Comedor",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "0",
+    "mapFile": "Edificio-Principal-Piso(0).svg"
+  },
+  {
+    "id": "edificio-principal-1-Posgrado",
+    "room": "Posgrado",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "1",
+    "mapFile": "Edificio-Principal-Piso(1).svg"
+  },
+  {
+    "id": "edificio-principal-1-102",
+    "room": "102",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "1",
+    "mapFile": "Edificio-Principal-Piso(1).svg"
+  },
+  {
+    "id": "edificio-principal-1-Zona de Estudio",
+    "room": "Zona de Estudio",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "1",
+    "mapFile": "Edificio-Principal-Piso(1).svg"
+  },
+  {
+    "id": "edificio-principal-1-Dept. de Ing. Ambiental",
+    "room": "Dept. de Ing. Ambiental",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "1",
+    "mapFile": "Edificio-Principal-Piso(1).svg"
+  },
+  {
+    "id": "edificio-principal-1-Bedelia",
+    "room": "Bedelia",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "1",
+    "mapFile": "Edificio-Principal-Piso(1).svg"
+  },
+  {
+    "id": "edificio-principal-1-Sala de Lactancia",
+    "room": "Sala de Lactancia",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "1",
+    "mapFile": "Edificio-Principal-Piso(1).svg"
+  },
+  {
+    "id": "edificio-principal-1-Salón sin Identificar",
+    "room": "Salón sin Identificar",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "1",
+    "mapFile": "Edificio-Principal-Piso(1).svg"
+  },
+  {
+    "id": "edificio-principal-1-105",
+    "room": "105",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "1",
+    "mapFile": "Edificio-Principal-Piso(1).svg"
+  },
+  {
+    "id": "edificio-principal-1-Escaleras - Bandejas",
+    "room": "Escaleras - Bandejas",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "1",
+    "mapFile": "Edificio-Principal-Piso(1).svg"
+  },
+  {
+    "id": "edificio-principal-1-103 - Consejo y Comisiones",
+    "room": "103 - Consejo y Comisiones",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "1",
+    "mapFile": "Edificio-Principal-Piso(1).svg"
+  },
+  {
+    "id": "edificio-principal-1-Archivo Central y Deposito",
+    "room": "Archivo Central y Deposito",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "1",
+    "mapFile": "Edificio-Principal-Piso(1).svg"
+  },
+  {
+    "id": "edificio-principal-1-Ascensor - Bandejas",
+    "room": "Ascensor - Bandejas",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "1",
+    "mapFile": "Edificio-Principal-Piso(1).svg"
+  },
+  {
+    "id": "edificio-principal-1-Funcionarios",
+    "room": "Funcionarios",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "1",
+    "mapFile": "Edificio-Principal-Piso(1).svg"
+  },
+  {
+    "id": "edificio-principal-1-Contaduría",
+    "room": "Contaduría",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "1",
+    "mapFile": "Edificio-Principal-Piso(1).svg"
+  },
+  {
+    "id": "edificio-principal-1-104 - EOC",
+    "room": "104 - EOC",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "1",
+    "mapFile": "Edificio-Principal-Piso(1).svg"
+  },
+  {
+    "id": "edificio-principal-1-Salón de Actos",
+    "room": "Salón de Actos",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "1",
+    "mapFile": "Edificio-Principal-Piso(1).svg"
+  },
+  {
+    "id": "edificio-principal-1-Lab. de Combustibles y Lubricantes",
+    "room": "Lab. de Combustibles y Lubricantes",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "1",
+    "mapFile": "Edificio-Principal-Piso(1).svg"
+  },
+  {
+    "id": "edificio-principal-1-S.A.D.",
+    "room": "S.A.D.",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "1",
+    "mapFile": "Edificio-Principal-Piso(1).svg"
+  },
+  {
+    "id": "edificio-principal-1-Instituto Ing Electrica",
+    "room": "Instituto Ing Electrica",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "1",
+    "mapFile": "Edificio-Principal-Piso(1).svg"
+  },
+  {
+    "id": "edificio-principal-2-Biblioteca",
+    "room": "Biblioteca",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "2",
+    "mapFile": "Edificio-Principal-Piso(2).svg"
+  },
+  {
+    "id": "edificio-principal-2-Sala Silenciosa",
+    "room": "Sala Silenciosa",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "2",
+    "mapFile": "Edificio-Principal-Piso(2).svg"
+  },
+  {
+    "id": "edificio-principal-2-Administracion de la Bilblioteca",
+    "room": "Administracion de la Bilblioteca",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "2",
+    "mapFile": "Edificio-Principal-Piso(2).svg"
+  },
+  {
+    "id": "edificio-principal-2-Instituto de Agrimensura",
+    "room": "Instituto de Agrimensura",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "2",
+    "mapFile": "Edificio-Principal-Piso(2).svg"
+  },
+  {
+    "id": "edificio-principal-3-307",
+    "room": "307",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "3",
+    "mapFile": "Edificio-Principal-Piso(3).svg"
+  },
+  {
+    "id": "edificio-principal-3-301",
+    "room": "301",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "3",
+    "mapFile": "Edificio-Principal-Piso(3).svg"
+  },
+  {
+    "id": "edificio-principal-3-310",
+    "room": "310",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "3",
+    "mapFile": "Edificio-Principal-Piso(3).svg"
+  },
+  {
+    "id": "edificio-principal-3-303",
+    "room": "303",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "3",
+    "mapFile": "Edificio-Principal-Piso(3).svg"
+  },
+  {
+    "id": "edificio-principal-3-309",
+    "room": "309",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "3",
+    "mapFile": "Edificio-Principal-Piso(3).svg"
+  },
+  {
+    "id": "edificio-principal-3-315 - PC Windows",
+    "room": "315 - PC Windows",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "3",
+    "mapFile": "Edificio-Principal-Piso(3).svg"
+  },
+  {
+    "id": "edificio-principal-3-314 - PC Linux",
+    "room": "314 - PC Linux",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "3",
+    "mapFile": "Edificio-Principal-Piso(3).svg"
+  },
+  {
+    "id": "edificio-principal-3-Zona de Estudio",
+    "room": "Zona de Estudio",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "3",
+    "mapFile": "Edificio-Principal-Piso(3).svg"
+  },
+  {
+    "id": "edificio-principal-3-305",
+    "room": "305",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "3",
+    "mapFile": "Edificio-Principal-Piso(3).svg"
+  },
+  {
+    "id": "edificio-principal-4-401 - PC Linux",
+    "room": "401 - PC Linux",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "4",
+    "mapFile": "Edificio-Principal-Piso(4).svg"
+  },
+  {
+    "id": "edificio-principal-4-402 - PC Linux",
+    "room": "402 - PC Linux",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "4",
+    "mapFile": "Edificio-Principal-Piso(4).svg"
+  },
+  {
+    "id": "edificio-principal-4-Zona de Estudio",
+    "room": "Zona de Estudio",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "4",
+    "mapFile": "Edificio-Principal-Piso(4).svg"
+  },
+  {
+    "id": "edificio-principal-4-Oficinas",
+    "room": "Oficinas",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "4",
+    "mapFile": "Edificio-Principal-Piso(4).svg"
+  },
+  {
+    "id": "edificio-principal-4-Instituto de Ing. Quimica",
+    "room": "Instituto de Ing. Quimica",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "4",
+    "mapFile": "Edificio-Principal-Piso(4).svg"
+  },
+  {
+    "id": "edificio-principal-5-501",
+    "room": "501",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "5",
+    "mapFile": "Edificio-Principal-Piso(5).svg"
+  },
+  {
+    "id": "edificio-principal-5-Profesores",
+    "room": "Profesores",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "5",
+    "mapFile": "Edificio-Principal-Piso(5).svg"
+  },
+  {
+    "id": "edificio-principal-5-Zona de Estudio",
+    "room": "Zona de Estudio",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "5",
+    "mapFile": "Edificio-Principal-Piso(5).svg"
+  },
+  {
+    "id": "edificio-principal-5-502 Azul",
+    "room": "502 Azul",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "5",
+    "mapFile": "Edificio-Principal-Piso(5).svg"
+  },
+  {
+    "id": "edificio-principal-5-Instituto de Ing. Quimica",
+    "room": "Instituto de Ing. Quimica",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "5",
+    "mapFile": "Edificio-Principal-Piso(5).svg"
+  },
+  {
+    "id": "edificio-principal-6-IFFI Biblioteca",
+    "room": "IFFI Biblioteca",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "6",
+    "mapFile": "Edificio-Principal-Piso(6).svg"
+  },
+  {
+    "id": "edificio-principal-6-Zona de Estudio",
+    "room": "Zona de Estudio",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "6",
+    "mapFile": "Edificio-Principal-Piso(6).svg"
+  },
+  {
+    "id": "edificio-principal-6-601",
+    "room": "601",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "6",
+    "mapFile": "Edificio-Principal-Piso(6).svg"
+  },
+  {
+    "id": "edificio-principal-6-IFFI Área de Servicios",
+    "room": "IFFI Área de Servicios",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "6",
+    "mapFile": "Edificio-Principal-Piso(6).svg"
+  },
+  {
+    "id": "edificio-principal-7-705 Marrón",
+    "room": "705 Marrón",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "7",
+    "mapFile": "Edificio-Principal-Piso(7).svg"
+  },
+  {
+    "id": "edificio-principal-7-703 Rojo",
+    "room": "703 Rojo",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "7",
+    "mapFile": "Edificio-Principal-Piso(7).svg"
+  },
+  {
+    "id": "edificio-principal-7-726",
+    "room": "726",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "7",
+    "mapFile": "Edificio-Principal-Piso(7).svg"
+  },
+  {
+    "id": "edificio-principal-7-Unidad de enseñanza",
+    "room": "Unidad de enseñanza",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "7",
+    "mapFile": "Edificio-Principal-Piso(7).svg"
+  },
+  {
+    "id": "edificio-principal-7-Seminarios IFFI",
+    "room": "Seminarios IFFI",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "7",
+    "mapFile": "Edificio-Principal-Piso(7).svg"
+  },
+  {
+    "id": "edificio-principal-7-720 Verde",
+    "room": "720 Verde",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "7",
+    "mapFile": "Edificio-Principal-Piso(7).svg"
+  },
+  {
+    "id": "edificio-principal-7-725 Beige",
+    "room": "725 Beige",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "7",
+    "mapFile": "Edificio-Principal-Piso(7).svg"
+  },
+  {
+    "id": "edificio-principal-7-LAB Energía Solar",
+    "room": "LAB Energía Solar",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "7",
+    "mapFile": "Edificio-Principal-Piso(7).svg"
+  },
+  {
+    "id": "edificio-principal-7-Zona de Estudio",
+    "room": "Zona de Estudio",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "7",
+    "mapFile": "Edificio-Principal-Piso(7).svg"
+  },
+  {
+    "id": "edificio-principal-7-OpenFing",
+    "room": "OpenFing",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "7",
+    "mapFile": "Edificio-Principal-Piso(7).svg"
+  },
+  {
+    "id": "edificio-principal-7-LAB Fisica Exp",
+    "room": "LAB Fisica Exp",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "7",
+    "mapFile": "Edificio-Principal-Piso(7).svg"
+  },
+  {
+    "id": "edificio-principal-7-727 Gris",
+    "room": "727 Gris",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "7",
+    "mapFile": "Edificio-Principal-Piso(7).svg"
+  },
+  {
+    "id": "edificio-principal-7-Unidad de Recursos Informaticos",
+    "room": "Unidad de Recursos Informaticos",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "7",
+    "mapFile": "Edificio-Principal-Piso(7).svg"
+  },
+  {
+    "id": "edificio-principal-7-722 Naranja",
+    "room": "722 Naranja",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "7",
+    "mapFile": "Edificio-Principal-Piso(7).svg"
+  },
+  {
+    "id": "edificio-principal-7-Cocina para Funcionarios",
+    "room": "Cocina para Funcionarios",
+    "building": "edificio-principal",
+    "buildingName": "Edificio Principal",
+    "floor": "7",
+    "mapFile": "Edificio-Principal-Piso(7).svg"
+  }
+]
