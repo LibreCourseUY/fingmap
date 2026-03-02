@@ -33,6 +33,7 @@ export default defineConfig({
   // Production build configuration
   build: {
     // Use lightningcss for CSS minification
-    minify: 'lightningcss'
+    minify: 'lightningcss',
+    brotliSize: false
   }
 })
