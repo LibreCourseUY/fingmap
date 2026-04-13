@@ -4,6 +4,9 @@ import Header from './components/Header.vue'
 import HamburgerMenu from './components/HamburgerMenu.vue'
 import MapViewer from './components/MapViewer.vue'
 import DisclaimerModal from './components/DisclaimerModal.vue'
+import { useMetrics } from './composables/useMetrics'
+
+const { trackView, trackClick } = useMetrics()
 
 const currentBuilding = ref(null)
 const currentFloor = ref(null)
@@ -38,6 +41,12 @@ const selectFloor = (floor) => {
 }
 
 const handleRoomSelect = (room) => {
+  trackClick('fingmap_room', {
+    room_id: room.id,
+    room_name: room.room,
+    building: room.building,
+    floor: room.floor
+  })
   if (room.building !== currentBuilding.value?.id) {
     const building = buildings.find(b => b.id === room.building)
     currentBuilding.value = building
@@ -58,6 +67,7 @@ onMounted(() => {
     currentBuilding.value = buildings[0]
     currentFloor.value = '0'
   }
+  trackView('fingmap')
 })
 </script>
 
