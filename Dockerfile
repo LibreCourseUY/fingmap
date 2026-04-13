@@ -8,16 +8,13 @@ COPY . .
 RUN npm run build
 
 # Production stage
-FROM nginx:alpine
+FROM node:20-alpine
 
-# Make sure the folder exists
-RUN mkdir -p /usr/share/nginx/html/fingmap
-
-# Copy built files to /fingmap
-COPY --from=builder /app/dist /usr/share/nginx/html/fingmap
-
-# Copy your custom Nginx config
-COPY fingmap.conf /etc/nginx/conf.d/default.conf
+WORKDIR /app
+COPY package*.json ./
+RUN npm ci --omit=dev
+COPY --from=builder /app/dist ./dist
+COPY server.js .
 
 EXPOSE 8080
-CMD ["nginx", "-g", "daemon off;"]
+CMD ["node", "server.js"]
