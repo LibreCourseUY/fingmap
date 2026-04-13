@@ -15,9 +15,7 @@ import vue from '@vitejs/plugin-vue'
 import lightningcss from 'vite-plugin-lightningcss'
 
 export default defineConfig({
-  // Base path: The app will be served from /fingmap/
-  // This is important when deploying to subdirectories
-  base: "/fingmap/",
+  base: "/",
   
   // Plugins to use
   plugins: [
